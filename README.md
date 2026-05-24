@@ -64,7 +64,7 @@ ETA: July 2025
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Manyea?theme=dark&font=source_code_pro&ext=activity)](https://leetcode.com/Manyea)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Manyea?theme=dark&font=source_code_pro)](https://leetcode.com/Manyea)
 
 </div>
 
